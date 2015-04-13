@@ -1,0 +1,68 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Apr  6 22:07:00 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21795 15300 178000 0) (desktop . "206") "Jianfeng@VOSTRO" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Inconsolata-normal-normal-normal-mono-21-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#F8F8F8") (background-color . "#0C1021") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (fullscreen . maximized) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#e6e6fa") (environment) (frameset--id . "8C0B-EF30-E194-657C") (frameset--mini t . t) (height . 47) (width . 188) (modeline . t) (minibuffer . t) (unsplittable) (left + -8) (top + -8) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 12) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 84) (min-pixel-width . 200) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 120) (min-pixel-height-safe . 21) (min-pixel-width-safe . 40)) hc (pixel-width . 1920) (pixel-height . 977) (total-width . 192) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 977) (total-width . 96) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (buffer "CompareLMandGLM.R" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins 2) (scroll-bars 17 2 t nil) (vscroll . 0) (dedicated) (point . 369) (start . 1))) (leaf (last . t) (pixel-width . 960) (pixel-height . 977) (total-width . 96) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (buffer "*R*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 3) (scroll-bars 17 2 t nil) (vscroll . 0) (dedicated) (point . 46239) (start . 45232)))))])
+(setq desktop-missing-file-warning nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "d:/Dropbox/GitHub/Rcode/StackOverflow/CompareLMandGLM.R"
+  "CompareLMandGLM.R"
+  'ess-mode
+  '(eldoc-mode linum-mode global-auto-revert-mode auto-complete-mode)
+  369
+  '(370 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/BitBucket/R_Code/IntroductionStatisticalLearning/ch8.Rmd"
+  "ch8.Rmd[r]"
+  'ess-mode
+  '(eldoc-mode poly-markdown+r-mode linum-mode global-auto-revert-mode auto-complete-mode)
+  978
+  '(285 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/Org/Diary/China-Holidays"
+  "China-Holidays"
+  'diary-mode
+  '(linum-mode global-auto-revert-mode auto-complete-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/BitBucket/R_Code/IntroductionStatisticalLearning/ch8.Rmd"
+  "ch8.Rmd"
+  'markdown-mode
+  '(auto-fill-mode poly-markdown+r-mode linum-mode global-auto-revert-mode auto-complete-mode)
+  1
+  '(329 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Dropbox/BitBucket/R_Code/IntroductionStatisticalLearning/ch8.Rmd"
+  "ch8.Rmd[fundamental]"
+  'fundamental-mode
+  '(poly-markdown+r-mode linum-mode global-auto-revert-mode auto-complete-mode)
+  410
+  '(285 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
